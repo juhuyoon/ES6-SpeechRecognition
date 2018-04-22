@@ -1,0 +1,23 @@
+{
+  "name": "es6-speechrecognition",
+  "version": "1.0.0",
+  "description": "javascript practice courtesy of javascript30.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhuyoon/ES6-SpeechRecognition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juhuyoon/ES6-SpeechRecognition/issues"
+  },
+  "homepage": "https://github.com/juhuyoon/ES6-SpeechRecognition#readme",
+  "dependencies": {
+    "browser-sync": "^2.23.7"
+  }
+}
